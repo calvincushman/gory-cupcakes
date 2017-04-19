@@ -1,0 +1,9 @@
+body {
+  background-color: #a37f77;
+}
+
+img {
+  max-width: 450px;
+  max-height: 350px;
+  border-radius: 5% dashed red 5px;
+}
