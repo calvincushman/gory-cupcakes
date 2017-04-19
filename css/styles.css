@@ -3,3 +3,8 @@ body {
   font-family: cursive;
   text-align: center;
 }
+
+img {
+  border-radius: 60%;
+  border: solid red 5px;
+}
