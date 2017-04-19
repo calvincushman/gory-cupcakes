@@ -7,3 +7,13 @@ img {
   max-height: 350px;
   border-radius: 5% dashed red 5px;
 }
+
+.flashy {
+  border: yellow 2px solid;
+}
+
+.best {
+  font-style: italic;
+  text-decoration-color: brown;
+  border: green 2px dashed;
+}
